@@ -1,1 +1,1 @@
-Read more here: https://lunarblade99.github.io/noteGCOEA/
+Read more here: https://lunarblade99.github.io/GCOEA/
