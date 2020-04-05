@@ -14,7 +14,7 @@ let availableQuesions = [];
 let questions = [];
 
 fetch(
-  "https://gist.githubusercontent.com/lunarblade99/a6cf624494dc302fbda8aadd0800f74f/raw/66b641ca2e5e447438e08077909d5ba7632fb6c8/questions.json"
+  "https://gist.githubusercontent.com/lunarblade99/a6cf624494dc302fbda8aadd0800f74f/raw/c7135452cc061902bb49d803bee941c943e8c459/questions.json"
 )
   .then(res => {
     return res.json();
